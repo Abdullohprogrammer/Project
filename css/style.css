@@ -28,7 +28,7 @@ body {
    -webkit-text-stroke: 2px aqua;
 }
 
-.content h2:nth-child(2):hover {
+.content h2:nth-child(2) {
    color: aqua;
    animation: animate 4s ease-in-out infinite;
 }
